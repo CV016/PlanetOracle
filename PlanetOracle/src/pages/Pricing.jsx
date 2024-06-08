@@ -14,12 +14,14 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            PlanetOracle offers you unlimited access to a personalized world map
+            that chronicles every city you’ve visited. Easily document your
+            travels, revisit your cherished memories, and impress your friends
+            by sharing your global adventures. Join us and make your journey
+            unforgettable.
           </p>
         </div>
-        <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
+        <img src="img2.jpg" alt="overview of a large city with skyscrapers" />
       </section>
     </main>
   );

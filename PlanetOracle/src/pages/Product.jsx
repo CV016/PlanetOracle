@@ -7,21 +7,20 @@ export default function Product() {
       <PageNav />
       <section>
         <img
-          src="img-1.jpg"
+          src="img1.jpg"
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            WorldWide by PlanetOracle lets you document your global adventures
+            with ease. Our interactive map tracks every city you visit, ensuring
+            your memories are beautifully preserved. Share your travel
+            experiences with friends and showcase your journey across the world
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Discover new places, relive past trips, and keep your wanderlust
+            alive with WorldWide.
           </p>
         </div>
       </section>

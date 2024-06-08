@@ -8,14 +8,13 @@ export default function Homepage() {
       <PageNav />
       <section>
         <h1>
-          You travel the world.
+          Explore the world.
           <br />
-          WorldWise keeps track of your adventures.
+          PlanetOracle Archive your Voyages.
         </h1>
         <h2>
-          A world map that tracks your footsteps into every city you can think
-          of. Never forget your wonderful experiences, and show your friends how
-          you have wandered the world.
+          This interactive world map keeps a record of every city you've
+          visited, ensuring your cherished memories are never forgotten.
         </h2>
         <Link to="/login" className="cta">
           Start Tracking Now

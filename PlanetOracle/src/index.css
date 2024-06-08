@@ -4,15 +4,15 @@
 
 /* These CSS variables are global, so they are available in all CSS modules */
 :root {
-  --color-brand--1: #ffb545;
-  --color-brand--2: #00c46a;
+  --color-brand--1: #0e478d;
+  --color-brand--2: #ececec;
 
   --color-dark--0: #242a2e;
-  --color-dark--1: #2d3439;
-  --color-dark--2: #42484d;
-  --color-light--1: #aaa;
+  --color-dark--1: #121619;
+  --color-dark--2: #252729;
+  --color-light--1: #aaaaaa;
   --color-light--2: #ececec;
-  --color-light--3: #d6dee0;
+  --color-light--3: #ccd5d5;
 }
 
 * {
