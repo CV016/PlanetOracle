@@ -1,4 +1,4 @@
-# WorldWise: Keep Track of Your Adventures
+# PlanetOracle: Archive your Voyages
 
 An application where you can register all the cities that you have ever traveled to.
 {This Application work is still in work as of this date}
