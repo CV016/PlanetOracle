@@ -1,51 +1,15 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "31f3",
+      "cityName": "Aligarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-08T06:45:50.683Z",
+      "notes": "This is my Home",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "d73f",
-      "cityName": "Onda",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-06-06T13:12:54.673Z",
-      "notes": "test",
-      "position": {
-        "lat": "39.959080980462986",
-        "lng": "-0.24453713883636932"
+        "lat": "27.877998267842084",
+        "lng": "78.07284113029455"
       }
     }
   ]
